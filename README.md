@@ -1,18 +1,30 @@
-## Getting Started
+# 🚀 Primeiro Projeto em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é meu primeiro projeto desenvolvido em **Java**, criado com o objetivo de praticar os fundamentos da linguagem e consolidar minha base em programação orientada a objetos.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 📚 Sobre o Projeto
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+O projeto foi desenvolvido para reforçar conceitos essenciais como:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- ✅ Sintaxe básica do Java  
+- ✅ Estruturas de decisão (`if`, `else`)  
+- ✅ Estruturas de repetição (`for`, `while`)  
+- ✅ Variáveis e tipos primitivos  
+- ✅ Métodos  
+- ✅ Entrada e saída de dados  
+- ✅ Organização básica de código  
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Este projeto representa meu primeiro passo prático na linguagem Java, após concluir meus estudos iniciais em lógica de programação.
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🛠️ Tecnologias Utilizadas
+
+- ☕ Java (JDK 21)
+- 💻 VS Code
+- 🖥️ Terminal (Linux / Windows)
+
+---
+
